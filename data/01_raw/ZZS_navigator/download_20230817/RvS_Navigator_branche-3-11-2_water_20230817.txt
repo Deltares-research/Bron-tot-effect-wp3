@@ -1,0 +1,26 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	
+ZZS hydrazines			3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie verwacht
+ZZS hydrazines	fenylhydrazine	100-63-0	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine	302-01-2	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	zouten van hydrazine		3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazobenzeen	122-66-7	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	fenylhydrazinehydrochloride	27140-08-5	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	fenylhydrazinesulfaat	52033-74-6	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	1,2-dimethylhydrazine	540-73-8	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	N,N-dimethylhydrazine	57-14-7	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	fenylhydrazinechloride	59-88-1	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydraten van hydrazine	7803-57-8	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazinebis(3-carboxy-4-hydroxybenzeensulfonaat)	148434-03-1	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine-tri-nitromethaan	4682-01-3	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	methylhydrazine	60-34-4	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine acetaat	13255-48-6	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine dihydrochloride	5341-61-7	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine, monohydraat	10217-52-4	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine difluoride	13537-45-6	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine dihydrobromide	23268-00-0	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine perchloraat	27978-54-7	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine selenaat	73506-32-8	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine tartraat	634-62-8	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine dinitraat	13464-98-7	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine fosfaat	23488-13-3	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk
+ZZS hydrazines	hydrazine sulfaat	1184-66-3	3.11 Defensie	3.11.2 Militaire luchthaven		Water	Emissie mogelijk

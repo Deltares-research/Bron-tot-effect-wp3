@@ -1,0 +1,1 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	

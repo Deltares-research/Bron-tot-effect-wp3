@@ -1,0 +1,263 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	
+ZZS arseen en arseenverbindingen			3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie verwacht
+ZZS arseen en arseenverbindingen	arseen	7440-38-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	diarseenpentaoxide	1303-28-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseentrioxide	1327-53-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenzuur	7778-39-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zouten van arseenzuur		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	in water oplosbare zouten van arseenzuur		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	in water onoplosbare zouten van arseenzuur		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calciumarsenaat	7778-44-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenaat	7784-40-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkeldiarsenide	12068-61-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	galliumarsenide	1303-00-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkel(II)arsenaat	13477-70-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	triethylarsenaat	15606-95-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkelarsenide	27016-75-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trilooddiarsenaat	3687-31-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trinikkelbis(arseniet)	74646-29-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenverbindingen		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	anorganische arseenverbindingen		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	organische arseenverbindingen		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ammoniumarsenaat	7784-44-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenbromide	7784-33-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseentrichloride	7784-34-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenylaminochloorarsine	578-94-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenylchloorarsine	712-48-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ethyldichloorarsine	598-14-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(III)arsenaat	10102-49-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(III)arseniet	63989-69-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kakodylzuur	75-60-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumdihydroarsenaat	7784-41-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumarsenaat	10124-50-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	koperacetoarseniet	12002-03-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	koperarseniet	10290-12-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kwik(II)arsenaat	7784-37-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenaten		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenieten		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	magnesiumarsenaat	10103-50-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarsenaat	7631-89-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarseniet	15120-17-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumkakodylaat	124-65-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	strontiumarseniet	15195-06-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zilverarseniet	7784-08-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zinkarsenaat of zinkarseniet of zinkarsenaat en zinkarseniet, mengsel		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arsine	7784-42-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(II)arsenaat	10102-50-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	pesticide, arseenverbinding		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	indium arsenide	1303-11-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	2-aminofenylarsenigzuur	2045-00-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	2-nitrofenylarsenigzuur	5410-29-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	4-hydroxyfenylarsenigzuur	98-14-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenoxides, bismut-ijzer-antimoonoxides, natriumaluminiumfluoride, zinksulfaat, terugwinningsproducten uit koper- en zink-stof 		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseen(V)oxide hydraat	12044-50-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arsenigzuur, [4-[[4-(dimethylamino)fenyl]azo]fenyl]-, monohydrochloride	73688-85-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calcium arsenaat (CaHAsO4) (6CI,7CI)	15195-00-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenoxarsine-10-yl oxide	58-36-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenyljodonium hexafluoroarsenaat	62613-15-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatrium 3-[(o-fenylarsenigzuur)azo]-4,5-dihydroxynaftaleen-2,7-disulfonaat	3547-38-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatrium 4-[(o-fenylarsenigzuur)azo]-3-hydroxynaftaleen-2,7-disulfonaat	3688-92-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatriumwaterstofarsenaat	7778-43-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	methyltrifenylarsoniumiodide	1499-33-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	fenylarsine oxide	637-03-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	fenylarsenigzuur	98-05-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumhexafluorarsenaat	17029-22-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	roxarsone	121-19-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	rubidium diwaterstofarsenaat	13464-57-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarsenaat dibasisch heptahydraat	10048-95-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tetramethylarsonium iodide	5814-20-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tetrafenylarsonium chloride hydrochloride hydraat	123334-18-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tricadmium diarsenide	12006-15-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trifenylarsine	603-32-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trizilverarsenaat	13510-44-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trinatrium arsenaat	13464-38-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trizink diarsenide	12006-40-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zink arsenaat	13464-44-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarseniet	10031-13-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calciumarseniet	52740-16-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumarseniet	13464-35-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tricalcium diarseniet	27152-57-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	1-hepteen-1-arsenigzuur, 2-chloor-, monoammonium zout	300-88-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	lithium hexafluorarsenaat	29935-35-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen			3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie verwacht
+ZZS lood en loodverbindingen	lood	7439-92-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodacetaat, basisch	1335-32-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodarsenaat	7784-40-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodcarbonaat	25510-11-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodchromaat	7758-97-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddiacetaat	301-04-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodmolybdaat	10190-55-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodrhodiumoxide	37240-96-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsulfaat	7446-14-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	zwavelzuur loodzout	15739-80-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodalkylen		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trilood-bis(carbonaat)-dihydroxide	1319-46-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsulfochromaat	1344-37-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodchromaatmolybdaatsulfaat	12656-85-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trilooddiarsenaat	3687-31-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	[ftalato(2-)]dioxotrilood	69011-06-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	basisch azijnzuur loodzout	51404-69-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	dioxobis(stearaat)trilood	12578-12-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	vetzuren, C16-18, loodzouten	91031-62-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodstyfnaat	15245-44-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodbis(tetrafluorboraat)	13814-96-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodcyanamidaat	20837-86-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddipicraat	6477-64-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodhexafluorsilikaat	25808-74-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodmonoxide	1317-36-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodoxidesulfaat	12036-76-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtitaniumtrioxide	12060-00-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtitaniumzirconiumoxide	12626-81-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II)methaansulfonaat	17570-76-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodoranje	1314-41-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	pentaloodtetraoxidesulfaat	12065-90-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	pyrochlore, antimoonlood geel	8012-00-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	kiezelzuur (H2Si2O5), bariumzout (1:1), gedoteerd met lood [met een lood (Pb) gehalte boven de toepasbare algemene concentratiegrens voor 'giftig voor reproductie' Repr. 1A (CLP) of categorie 1 (DSD), de verbinding is onderdeel van de groep loodverbindingen met index nummer 082-082-001-00-6 in Regulering (EC) No 1272/2008	68784-75-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	kiezelzuur, loodnikkelzout	68130-19-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	kiezelzuur loodzout	11120-22-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	zwavelzuur, loodzout, dibasisch	62229-08-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	tetra-ethyllood	78-00-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	tetraloodtrioxidesulfaat	12202-17-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	triloodbis(orthofosfaat)	7446-27-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trilooddioxidefosfonaat	12141-20-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodcarbonaten		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsulfaten		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	organoloodverbindingen		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	tetramethyllood	75-74-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodarsenaten		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodarsenieten		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodcyanide	592-05-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddioxide	1309-60-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodnitraat	10099-74-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodperchloraat	13637-76-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodverbindingen		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	dibasisch loodfosfiet	1344-40-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddiazide	13424-46-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	anorganische loodverbindingen		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	2-nitro-1,3-benzeendiol, loodzout, basisch	68411-33-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	2-hydroxypropaan-1,2,3-tricarboxylaat, lood(2+), trihydraat	6107-83-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	4,14,22,32-tetrakis[4-(2-fenylpropaan-2-yl)fenoxy]-9,18,27,36,37,39,40,41-octaza-38lambda2-looddecacyclo[17.17.3.110,17.128,35.02,7.08,37.011,16.020,25.026,39.029,34]hentetraconta-1(36),2(7),3,5,8,10(41),11(16),12,14,17,19,21,23,25,27,29(34),30,32,35(40)-nonadecaeen	91083-54-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	azijnzuur, lood(2+) zout, trihydraat	6080-56-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	acetoxytrimethyllood	5711-19-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	bis(2,2,6,6-tetramethyl-3,5-heptaandionaat)lood(II)	21319-43-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	bis(diethyldithiocarbamaat-S,S')lood	17549-30-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	bis(pentaan-2,4-dionaat-O,O')lood	15282-88-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	bis[2-(nitro-kO)-4-nitrofenolaat-kO]-lood	625080-35-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	messingstaaf (met lood)		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	gegloeid lood-zinkerts concentraat	94551-62-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	cesiumloodtribromide (laag watergehalte)	15243-48-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	cesiumloodtriiodide (laag watergehalte)	18041-25-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	chloortriethyllood	1067-14-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	chloortrifenyllood	1153-06-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	citroenzuur, loodzout	14450-60-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	concentraten van lood- en zinkverbindingen met zwavel afkomstig van hydrometallurgie (uitloging met heet zuur, uitloging met superheet zuur en flotatie) 		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	koper lood resorcylzuur salicylzuur complex 	68411-07-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	cyclo-di-μ-oxo(μ-ftalaat)trilood	17976-43-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	diloodchromaatoxide	18454-12-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	difenyllooddichloride	2117-69-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	dinatriumlood N,N'-ethyleenbis[N-(carboxylaatmethyl)aminoacetaat]	22904-40-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	D-valine, 3-mercapto-, lood complex	53513-80-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	ferraat(4-), hexakis(cyaan-κC)-, lood(2+) (1:2), (OC-6-11)-	14402-61-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	filterkoek van koperprecipitatieresidu, zuivering van looddinitraatoplossing, lood- en bismutverbindingen 		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	vliegas, loodraffinage	69029-67-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	frits, chemicaliën	65997-18-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	hexafenyldilood	3124-01-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodbevattende uitloogresten van zinkerts	91053-49-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood - goud gravimetrisch concentraat 		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood (IV) propionaat	19183-30-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood 2,4-dihydroxybenzoaat	20936-32-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood 4,6-dinitro-2-aminofenolaat		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodlegering, base, Pb,Sn, slakken	69011-60-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood bis(2,4-dihydroxybenzoaat)	41453-50-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood bis(2-ethylhexanoaat)	301-08-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood bis(4-cyclohexylbutyraat)	62637-99-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodcarbonaat intermediair 		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodchloride hydroxiden, terugwinningsproducten van de productie van lood- en bismutchemicaliën 		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodconcentraat		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddibromide	10031-22-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddichloride	7758-95-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddifluoride	7783-46-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddiiodide	10101-63-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddilauraat	15773-55-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddisalicylaat	15748-73-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddistearaat	1072-35-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodditantalum hexaoxide	12065-68-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddithiocyanaat	592-87-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddivanadium hexaoxide	10099-79-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodwaterstoforthofosfaat	15845-52-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodhydroxide	19783-14-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looderts concentraat		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looderst, concentraten		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodoxide	1335-25-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodftalocyanine 	15187-16-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodpicraat (droog)	25721-38-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodselenide	12069-00-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsilicaat	22569-74-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsulfaat, terugwinningsproduct uit koper- en zinkstof 		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsulfide	1314-87-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtartraat	815-84-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtelluur	1314-91-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtetraacetaat	546-67-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodthiosulfaat	13478-50-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtintrioxide	12036-31-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodwolfraamtetraoxide	7759-01-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looduranaatpigment	85536-79-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood zirkonium trioxide	12060-01-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(2+) 2,4-dinitroresorcinolaat	13406-89-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(2+) 4,6-dinitro-o-cresolaat	65121-76-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(2+)fosfonaat	13453-65-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(2+)seleniet	7488-51-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(2+) tellurium tetraoxide	13845-35-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II) 2,2,2-trifluoracetaat	4146-73-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II) 2-hydroxy-2-methylpropionaat	100929-97-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II)oxide rood	79120-33-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II)perchloraat hydraat	207500-00-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II)perchloraat trihydraat	13453-62-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, antimoon, slakken	69029-51-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, edelmetaal	97808-88-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, slakken	69029-52-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, slakken, antimoonrijk	69029-45-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, slakken, bismutrijk	69029-46-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, slakken, koperrijk	69227-11-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, isononanoaat naftenaatcomplexen	84929-97-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, isononanoaat naftenaatcomplexen, basisch	90431-40-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trifenyl(fenylthio)-lood (7CI)	15590-77-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood-ijzer-titanium-bismut-kaliumoxide		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	nafteenzuren, loodzouten 	61790-14-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	orthoboorzuur, lood(2+)zout	35498-15-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	dichloordiethyllood	13231-90-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	acetoxytripropyllood	13266-07-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	broomtriethyllood	41141-89-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(1-), tri-jood-, waterstof, verbinding met N,N-dimethylformamide en methaanamine (1:1:1:1)	2101242-86-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	mengsel van lood, nikkel, thallium, cadmium en koper		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	mengsel van loodcarbonaat en kwarts (SiO2)		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	mengsel van lood di(acetaat) en [ftalaat(2-)]oxodilood		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	residuen van koper-ijzer-lood-nikkel mat, onoplosbaar in  in zwavelzuur	102110-49-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	kiezelzuur, chroom loodzout	11113-70-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsmeltovenslakken	69029-58-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsmeltslakken	69029-84-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	slijm en slib, batterijschroot, antimoon- en loodrijk 	102110-60-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	slijm en slib, elektrolytische raffinage van tin-, lood- en zilverhoudende legeringen		3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodlegering	84195-61-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood-nikkel legering	98246-91-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	octadecanoaat, loodzout	7428-48-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	tri(o-tolyl)lood	201742-34-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	triethylloodacetaat	2587-81-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trimethyllood bromide	6148-48-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trifenyl(2-fenylethynyl)lood	5072-98-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	vaste afvalstoffen, loodzilveranode	94552-05-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	afval van de opwerking van loodaccu's	94551-99-2	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	zinksulfide (ZnS), gedoteerd met koper en lood	68585-90-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodarseniet	10031-13-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodfumeraat	13698-55-0	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddijodide	25659-31-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodchloride	12612-47-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodacrylaat	14466-01-4	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodacetaat	15347-57-6	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodazide	69985-35-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	tetrazido lood	73513-16-3	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	Trilood divanadaat	13692-88-1	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	Trilood dicitraat	512-26-5	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	(maleato)trioxotetralood	12275-07-9	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	vetzuren, C6-C19 vertakte, loodzouten, basic	68603-83-8	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk
+ZZS lood en loodverbindingen	Lood diniobium hexaoxide	12034-88-7	3.9 Sport en recreatie	3.9.3 Schietbaan		Water	Emissie mogelijk

@@ -1,0 +1,53 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	
+ZZS glycol ethers			3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie verwacht
+ZZS glycol ethers	2-ethoxyethanol	110-80-5	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	2-ethoxyethylacetaat	111-15-9	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	2-methoxyethanol	109-86-4	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	2-methoxyethylacetaat	110-49-6	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	2-methoxypropanol	1589-47-5	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	methoxyazijnzuur	625-45-6	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	1,2-dimethoxyethaan	110-71-4	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	ethyleenglycoldimethylether	111-96-6	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	triglyme	112-49-2	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	etacelasil	37894-46-5	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	1,2-diethoxyethaan	629-14-1	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	2-methoxypropylacetaat	70657-70-4	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS glycol ethers	traethyleenglycoldimethylether	143-24-8	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen			3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie verwacht
+ZZS organotinverbindingen	azocyclotin	41083-11-8	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	cyhexatin	13121-70-5	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dibutyltinwaterstofboraat	75113-37-0	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dibutyltinhydride	1002-53-5	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dibutyltindichloride	683-18-1	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dibutyltinoxide	818-08-6	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	fenbutatin	13356-08-6	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	trifenyltinhydroxide	76-87-9	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	tetrabutyltin	1461-25-2	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	tributyl(vinyl)tin	7486-35-3	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	tributyltin	688-73-3	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	tributyltin-kation	36643-28-4	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	tributyltinoxide	56-35-9	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	trifenyltin	892-20-6	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	trifenyltinacetaat	900-95-8	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	trifenyltinchloride	639-58-7	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoaat	15571-58-1	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	organische tinverbindingen		3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	tributyltin verbindingen		3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	mengsel van 2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoaat en 2-ethylhexyl 10-ethyl-4-[[2-[(2-ethylhexyl)oxy]-2-oxoethyl]thio]-4-octyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoaat (mengsel van DOTE en MOTE)		3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dibutyltindilauraat	77-58-7	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	2-ethylhexyl 10-ethyl-4,4-dimethyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate	57583-35-4	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	2-ethylhexyl 10-ethyl-4-[[2-[(2-ethylhexyl)oxy]-2-oxoethyl]thio]-4-methyl-7-oxo-8-oxa-3,5-dithia-4- tintetradecanoaat	57583-34-3	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dibutylbis(pentaan-2,4-dionato-O,O”)tin	22673-19-4	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dibutyltin bis(2-ethylhexanoaat)	2781-10-4	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dibutyltin di(acetaat)	1067-33-0	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dibutyltin maleaat	78-04-6	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dichloordioctylstannaan	3542-36-7	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dimethyltin dichloride	753-73-1	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dioctyltin oxide	870-08-6	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	hexabutyldistannaan	813-19-4	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	n-butyltin trichloride	1118-46-3	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dioctyltindilauraat	3648-18-8	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	stannaan, dioctyl-, bis (kokos-acyloxy)derivaten	91648-39-4	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dioctyltindilauraat, stannaan, dioctyl-, bis(kokosacyloxy)derivaten en alle andere stannaan-, dioctyl-, bis(vetacyloxy)derivaten waarin C12 het overheersende koolstofgetal is van de vetzuuracyloxygroep		3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dioctyltin dilauraat; stannaan, dioctyl-, bis(kokos-acyloxy)derivaten		3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk
+ZZS organotinverbindingen	dibutyltin (kation) 	14488-53-0	3.6 Agrarische sector	3.6.2 Glastuinbouwbedrijf		Water	Emissie mogelijk

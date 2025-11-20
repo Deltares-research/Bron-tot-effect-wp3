@@ -1,0 +1,600 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	
+ZZS arseen en arseenverbindingen			3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie verwacht
+ZZS arseen en arseenverbindingen	arseen	7440-38-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	diarseenpentaoxide	1303-28-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseentrioxide	1327-53-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenzuur	7778-39-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zouten van arseenzuur		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	in water oplosbare zouten van arseenzuur		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	in water onoplosbare zouten van arseenzuur		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calciumarsenaat	7778-44-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenaat	7784-40-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkeldiarsenide	12068-61-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	galliumarsenide	1303-00-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkel(II)arsenaat	13477-70-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	triethylarsenaat	15606-95-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkelarsenide	27016-75-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trilooddiarsenaat	3687-31-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trinikkelbis(arseniet)	74646-29-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	anorganische arseenverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	organische arseenverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ammoniumarsenaat	7784-44-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenbromide	7784-33-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseentrichloride	7784-34-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenylaminochloorarsine	578-94-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenylchloorarsine	712-48-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ethyldichloorarsine	598-14-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(III)arsenaat	10102-49-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(III)arseniet	63989-69-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kakodylzuur	75-60-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumdihydroarsenaat	7784-41-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumarsenaat	10124-50-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	koperacetoarseniet	12002-03-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	koperarseniet	10290-12-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kwik(II)arsenaat	7784-37-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenaten		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenieten		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	magnesiumarsenaat	10103-50-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarsenaat	7631-89-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarseniet	15120-17-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumkakodylaat	124-65-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	strontiumarseniet	15195-06-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zilverarseniet	7784-08-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zinkarsenaat of zinkarseniet of zinkarsenaat en zinkarseniet, mengsel		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arsine	7784-42-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(II)arsenaat	10102-50-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	pesticide, arseenverbinding		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	indium arsenide	1303-11-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	2-aminofenylarsenigzuur	2045-00-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	2-nitrofenylarsenigzuur	5410-29-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	4-hydroxyfenylarsenigzuur	98-14-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenoxides, bismut-ijzer-antimoonoxides, natriumaluminiumfluoride, zinksulfaat, terugwinningsproducten uit koper- en zink-stof 		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseen(V)oxide hydraat	12044-50-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arsenigzuur, [4-[[4-(dimethylamino)fenyl]azo]fenyl]-, monohydrochloride	73688-85-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calcium arsenaat (CaHAsO4) (6CI,7CI)	15195-00-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenoxarsine-10-yl oxide	58-36-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenyljodonium hexafluoroarsenaat	62613-15-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatrium 3-[(o-fenylarsenigzuur)azo]-4,5-dihydroxynaftaleen-2,7-disulfonaat	3547-38-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatrium 4-[(o-fenylarsenigzuur)azo]-3-hydroxynaftaleen-2,7-disulfonaat	3688-92-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatriumwaterstofarsenaat	7778-43-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	methyltrifenylarsoniumiodide	1499-33-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	fenylarsine oxide	637-03-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	fenylarsenigzuur	98-05-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumhexafluorarsenaat	17029-22-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	roxarsone	121-19-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	rubidium diwaterstofarsenaat	13464-57-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarsenaat dibasisch heptahydraat	10048-95-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tetramethylarsonium iodide	5814-20-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tetrafenylarsonium chloride hydrochloride hydraat	123334-18-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tricadmium diarsenide	12006-15-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trifenylarsine	603-32-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trizilverarsenaat	13510-44-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trinatrium arsenaat	13464-38-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trizink diarsenide	12006-40-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zink arsenaat	13464-44-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarseniet	10031-13-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calciumarseniet	52740-16-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumarseniet	13464-35-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tricalcium diarseniet	27152-57-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	1-hepteen-1-arsenigzuur, 2-chloor-, monoammonium zout	300-88-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	lithium hexafluorarsenaat	29935-35-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen			3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie verwacht
+ZZS cadmium en cadmiumverbindingen	cadmium	7440-43-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	cadmiumchloride	10108-64-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	cadmiumfluoride	7790-79-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	cadmiumoxide	1306-19-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	cadmiumsulfaat	10124-36-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	cadmiumsulfide	1306-23-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	cadmiumverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	cadmiumcarbonaat	513-78-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	cadmiumhydroxide	21041-95-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	cadmiumnitraat	10325-94-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	(S)-dichloor[2-[[(2,3-dihydroxypropoxy)hydroxyfosfinyl]oxy]triethylmethylammoniumaat]cadmium	64681-08-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	azijnzuur, cadmiumzout, dihydraat	5743-04-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	mengsel van cadmium sulfide (CdS), vaste oplossing met zinksulfide, gedoteerd met koperchloride en zinksulfide (ZnS), gedoteerd met zilverchloride en yttriumoxidesulfide (Y2O2S), gedoteerd met europium		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	mengsel van digadolinium-dioxidesulfide en cadmium-zinksulfide		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	cadmium (II) chloride monohydraat	35658-65-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	tricadmium diarsenide	12006-15-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	kiezelzuur, zirkoniumzout, ingekapseld cadmiumpigment	102184-95-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	(R)-12-hydroxyoliezuur, barium cadmium zout	71411-66-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS cadmium en cadmiumverbindingen	[[N,N'-ethyleenbis[glycinaat]](2-)-N,N',O,O']cadmium	29977-13-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen			3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie verwacht
+ZZS chroom (VI) verbindingen	calciumchromaat	13765-19-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chromyldichloride	14977-61-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chroom (VI)	18540-29-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chroom (VI) verbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chroom(III)chromaat	24613-89-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chroomtrioxide	1333-82-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chroomzuur	7738-94-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	kaliumdichromaat	7778-50-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	loodchromaat	7758-97-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	strontiumchromaat	7789-06-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	tert-butylchromaat	1189-85-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	zinkchromaat	13530-65-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	loodsulfochromaat	1344-37-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	loodchromaatmolybdaatsulfaat	12656-85-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	dichroomzuur	13530-68-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	natriumdichromaat	10588-01-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	ammoniumdichromaat	7789-09-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	kaliumchromaat	7789-00-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	natriumchromaat	7775-11-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	nikkelchromaat	14721-18-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	pentazinkchromaatoctahydroxide	49663-84-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	zinkkaliumchromaat	11103-86-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	nikkeldichromaat	15586-38-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	natrium dichromaat dihydraat	7789-12-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	uit chroomtrioxide gevormde zuren en oligomeren daarvan		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	ammoniumchromaat	7788-98-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	4-(dimethylamino)pyridinium chloorchromaat	81121-61-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	diloodchromaatoxide	18454-12-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	rubidium chromaat	13446-72-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	oligomeren van chroomzuur en dichroomzuur		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen			3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie verwacht
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,6,7,8-hexachloordibenzofuraan	57117-44-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 101	37680-73-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 118	31508-00-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 138	35065-28-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 153	35065-27-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 180	35065-29-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 28	7012-37-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 52	35693-99-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	polychloorbifenylen	1336-36-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	polychloordibenzofuranen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	polychloordibenzo-p-dioxinen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	polychloorterfenylen	61788-33-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	dioxinen som		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	dioxinen en dioxineachtige verbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	polyhalogeendibenzodioxines		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	polybroomdibenzodioxines		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	polybroomdibenzofuranen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	polyhalogeendibenzofuranen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	2,3,7,8-tetrachloordibenzodioxine	1746-01-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,7,8-pentachloordibenzodioxine	40321-76-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,4,7,8-hexachloordibenzodioxine	39227-28-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,6,7,8-hexachloordibenzo-p-dioxine	57653-85-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,7,8,9-hexachloordibenzodioxine	19408-74-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,4,6,7,8-heptachloordibenzodioxine	35822-46-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,4,6,7,8,9-octachlorodibenzodioxine	3268-87-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	2,3,7,8-tetrachloordibenzofuraan	51207-31-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,7,8-pentachloordibenzofuraan	57117-41-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	2,3,4,7,8-pentachloordibenzofuraan	57117-31-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,4,7,8-hexachloordibenzofuraan	70648-26-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,7,8,9-hexachloordibenzofuraan	72918-21-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	2,3,4,6,7,8-hexachloordibenzofuraan	60851-34-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,4,6,7,8-heptachloordibenzofuraan	67562-39-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,4,7,8,9-heptachloordibenzofuraan	55673-89-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	1,2,3,4,6,7,8,9-octachloordibenzofuraan	39001-02-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 77	32598-13-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 81	70362-50-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 105	32598-14-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 114	74472-37-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 123	65510-44-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 126	57465-28-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 156	38380-08-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 157	69782-90-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 167	52663-72-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 169	32774-16-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	PCB 189	39635-31-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS dioxinen, PCBs en dioxineachtige verbindingen	hexachloordibenzofuranen	55684-94-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen			3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie verwacht
+ZZS kwik en kwikverbindingen	kwik	7439-97-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	tweewaardige anorganische kwikverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	anorganische kwikverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	organische kwikverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	methylkwik	22967-92-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	ammonium-kwikchloride	10124-48-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	fenylkwikacetaat	62-38-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	fenylkwikpropionaat	103-27-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	fenylkwik-2-ethylhexanoaat	13302-00-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	fenylkwikoctanoaat	13864-38-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	fenylkwikneodecanoaat	26545-49-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	fenylkwikhydroxide	100-57-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	fenylkwiknitraat	55-68-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kalium-kwikcyanide	591-89-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kalium-kwikjodide	7783-33-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwik(I)nitraat	10415-75-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwik(II)arsenaat	7784-37-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwik(II)chloride	7487-94-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwik(II)nitraat	10045-94-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwik(II)sulfaat	7783-35-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikacetaat	1600-27-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikbenzoaat	583-15-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikbromiden		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikcyanide	592-04-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikgluconate	63937-14-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikjodide	7783-30-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwiknucleaat	12002-19-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikoleaat	1191-80-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikoxide	21908-53-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikoxycyanide	1335-31-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwiksalicylaat	5970-32-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikthiocyanaat	592-85-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	fenylkwikverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	kwikfulminaat	628-86-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	chloormethylkwik	115-09-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	Bis(acetato-O)[μ-(3',6'-dihydroxy-3-oxospiro[isobenzofuran-1(3H),9'-[9H]xanthene]-2',7'-diyl)]dimercury	3570-80-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS kwik en kwikverbindingen	thiomersal	54-64-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen			3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie verwacht
+ZZS lood en loodverbindingen	lood	7439-92-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodacetaat, basisch	1335-32-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodarsenaat	7784-40-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodcarbonaat	25510-11-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodchromaat	7758-97-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddiacetaat	301-04-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodmolybdaat	10190-55-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodrhodiumoxide	37240-96-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsulfaat	7446-14-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	zwavelzuur loodzout	15739-80-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodalkylen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trilood-bis(carbonaat)-dihydroxide	1319-46-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsulfochromaat	1344-37-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodchromaatmolybdaatsulfaat	12656-85-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trilooddiarsenaat	3687-31-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	[ftalato(2-)]dioxotrilood	69011-06-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	basisch azijnzuur loodzout	51404-69-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	dioxobis(stearaat)trilood	12578-12-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	vetzuren, C16-18, loodzouten	91031-62-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodstyfnaat	15245-44-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodbis(tetrafluorboraat)	13814-96-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodcyanamidaat	20837-86-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddipicraat	6477-64-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodhexafluorsilikaat	25808-74-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodmonoxide	1317-36-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodoxidesulfaat	12036-76-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtitaniumtrioxide	12060-00-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtitaniumzirconiumoxide	12626-81-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II)methaansulfonaat	17570-76-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodoranje	1314-41-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	pentaloodtetraoxidesulfaat	12065-90-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	pyrochlore, antimoonlood geel	8012-00-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	kiezelzuur (H2Si2O5), bariumzout (1:1), gedoteerd met lood [met een lood (Pb) gehalte boven de toepasbare algemene concentratiegrens voor 'giftig voor reproductie' Repr. 1A (CLP) of categorie 1 (DSD), de verbinding is onderdeel van de groep loodverbindingen met index nummer 082-082-001-00-6 in Regulering (EC) No 1272/2008	68784-75-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	kiezelzuur, loodnikkelzout	68130-19-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	kiezelzuur loodzout	11120-22-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	zwavelzuur, loodzout, dibasisch	62229-08-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	tetra-ethyllood	78-00-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	tetraloodtrioxidesulfaat	12202-17-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	triloodbis(orthofosfaat)	7446-27-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trilooddioxidefosfonaat	12141-20-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodcarbonaten		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsulfaten		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	organoloodverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	tetramethyllood	75-74-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodarsenaten		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodarsenieten		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodcyanide	592-05-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddioxide	1309-60-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodnitraat	10099-74-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodperchloraat	13637-76-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	dibasisch loodfosfiet	1344-40-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddiazide	13424-46-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	anorganische loodverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	2-nitro-1,3-benzeendiol, loodzout, basisch	68411-33-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	2-hydroxypropaan-1,2,3-tricarboxylaat, lood(2+), trihydraat	6107-83-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	4,14,22,32-tetrakis[4-(2-fenylpropaan-2-yl)fenoxy]-9,18,27,36,37,39,40,41-octaza-38lambda2-looddecacyclo[17.17.3.110,17.128,35.02,7.08,37.011,16.020,25.026,39.029,34]hentetraconta-1(36),2(7),3,5,8,10(41),11(16),12,14,17,19,21,23,25,27,29(34),30,32,35(40)-nonadecaeen	91083-54-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	azijnzuur, lood(2+) zout, trihydraat	6080-56-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	acetoxytrimethyllood	5711-19-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	bis(2,2,6,6-tetramethyl-3,5-heptaandionaat)lood(II)	21319-43-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	bis(diethyldithiocarbamaat-S,S')lood	17549-30-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	bis(pentaan-2,4-dionaat-O,O')lood	15282-88-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	bis[2-(nitro-kO)-4-nitrofenolaat-kO]-lood	625080-35-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	messingstaaf (met lood)		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	gegloeid lood-zinkerts concentraat	94551-62-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	cesiumloodtribromide (laag watergehalte)	15243-48-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	cesiumloodtriiodide (laag watergehalte)	18041-25-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	chloortriethyllood	1067-14-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	chloortrifenyllood	1153-06-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	citroenzuur, loodzout	14450-60-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	concentraten van lood- en zinkverbindingen met zwavel afkomstig van hydrometallurgie (uitloging met heet zuur, uitloging met superheet zuur en flotatie) 		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	koper lood resorcylzuur salicylzuur complex 	68411-07-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	cyclo-di-μ-oxo(μ-ftalaat)trilood	17976-43-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	diloodchromaatoxide	18454-12-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	difenyllooddichloride	2117-69-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	dinatriumlood N,N'-ethyleenbis[N-(carboxylaatmethyl)aminoacetaat]	22904-40-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	D-valine, 3-mercapto-, lood complex	53513-80-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	ferraat(4-), hexakis(cyaan-κC)-, lood(2+) (1:2), (OC-6-11)-	14402-61-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	filterkoek van koperprecipitatieresidu, zuivering van looddinitraatoplossing, lood- en bismutverbindingen 		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	vliegas, loodraffinage	69029-67-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	frits, chemicaliën	65997-18-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	hexafenyldilood	3124-01-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodbevattende uitloogresten van zinkerts	91053-49-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood - goud gravimetrisch concentraat 		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood (IV) propionaat	19183-30-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood 2,4-dihydroxybenzoaat	20936-32-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood 4,6-dinitro-2-aminofenolaat		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodlegering, base, Pb,Sn, slakken	69011-60-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood bis(2,4-dihydroxybenzoaat)	41453-50-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood bis(2-ethylhexanoaat)	301-08-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood bis(4-cyclohexylbutyraat)	62637-99-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodcarbonaat intermediair 		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodchloride hydroxiden, terugwinningsproducten van de productie van lood- en bismutchemicaliën 		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodconcentraat		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddibromide	10031-22-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddichloride	7758-95-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddifluoride	7783-46-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddiiodide	10101-63-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddilauraat	15773-55-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddisalicylaat	15748-73-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddistearaat	1072-35-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodditantalum hexaoxide	12065-68-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddithiocyanaat	592-87-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddivanadium hexaoxide	10099-79-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodwaterstoforthofosfaat	15845-52-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodhydroxide	19783-14-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looderts concentraat		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looderst, concentraten		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodoxide	1335-25-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodftalocyanine 	15187-16-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodpicraat (droog)	25721-38-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodselenide	12069-00-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsilicaat	22569-74-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsulfaat, terugwinningsproduct uit koper- en zinkstof 		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsulfide	1314-87-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtartraat	815-84-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtelluur	1314-91-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtetraacetaat	546-67-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodthiosulfaat	13478-50-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodtintrioxide	12036-31-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodwolfraamtetraoxide	7759-01-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looduranaatpigment	85536-79-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood zirkonium trioxide	12060-01-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(2+) 2,4-dinitroresorcinolaat	13406-89-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(2+) 4,6-dinitro-o-cresolaat	65121-76-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(2+)fosfonaat	13453-65-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(2+)seleniet	7488-51-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(2+) tellurium tetraoxide	13845-35-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II) 2,2,2-trifluoracetaat	4146-73-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II) 2-hydroxy-2-methylpropionaat	100929-97-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II)oxide rood	79120-33-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II)perchloraat hydraat	207500-00-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(II)perchloraat trihydraat	13453-62-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, antimoon, slakken	69029-51-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, edelmetaal	97808-88-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, slakken	69029-52-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, slakken, antimoonrijk	69029-45-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, slakken, bismutrijk	69029-46-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, slakken, koperrijk	69227-11-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, isononanoaat naftenaatcomplexen	84929-97-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood, isononanoaat naftenaatcomplexen, basisch	90431-40-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trifenyl(fenylthio)-lood (7CI)	15590-77-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood-ijzer-titanium-bismut-kaliumoxide		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	nafteenzuren, loodzouten 	61790-14-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	orthoboorzuur, lood(2+)zout	35498-15-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	dichloordiethyllood	13231-90-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	acetoxytripropyllood	13266-07-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	broomtriethyllood	41141-89-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood(1-), tri-jood-, waterstof, verbinding met N,N-dimethylformamide en methaanamine (1:1:1:1)	2101242-86-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	mengsel van lood, nikkel, thallium, cadmium en koper		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	mengsel van loodcarbonaat en kwarts (SiO2)		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	mengsel van lood di(acetaat) en [ftalaat(2-)]oxodilood		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	residuen van koper-ijzer-lood-nikkel mat, onoplosbaar in  in zwavelzuur	102110-49-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	kiezelzuur, chroom loodzout	11113-70-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsmeltovenslakken	69029-58-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodsmeltslakken	69029-84-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	slijm en slib, batterijschroot, antimoon- en loodrijk 	102110-60-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	slijm en slib, elektrolytische raffinage van tin-, lood- en zilverhoudende legeringen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodlegering	84195-61-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	lood-nikkel legering	98246-91-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	octadecanoaat, loodzout	7428-48-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	tri(o-tolyl)lood	201742-34-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	triethylloodacetaat	2587-81-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trimethyllood bromide	6148-48-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	trifenyl(2-fenylethynyl)lood	5072-98-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	vaste afvalstoffen, loodzilveranode	94552-05-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	afval van de opwerking van loodaccu's	94551-99-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	zinksulfide (ZnS), gedoteerd met koper en lood	68585-90-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodarseniet	10031-13-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodfumeraat	13698-55-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	looddijodide	25659-31-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodchloride	12612-47-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodacrylaat	14466-01-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodacetaat	15347-57-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	loodazide	69985-35-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	tetrazido lood	73513-16-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	Trilood divanadaat	13692-88-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	Trilood dicitraat	512-26-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	(maleato)trioxotetralood	12275-07-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	vetzuren, C6-C19 vertakte, loodzouten, basic	68603-83-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS lood en loodverbindingen	Lood diniobium hexaoxide	12034-88-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen			3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie verwacht
+ZZS nikkel en nikkelverbindingen	dinikkeltrioxide	1314-06-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	kobaltlithiumnikkeloxide		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel	7440-02-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelverbindingen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelmonoxide	11099-02-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelmonoxide	1313-99-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)sulfide	16812-54-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelsulfide	11113-75-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeltetracarbonyl	13463-39-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	trinikkelboride	12007-02-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldiarsenide	12068-61-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	kobaltnikkeloxide	12737-30-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)arsenaat	13477-70-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelbis(tetrafluorboraat)	14708-14-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelarsenide	27016-75-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	kobaltnikkeldioxide	58591-45-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelboorfosfide	65229-23-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	kobaltdimolybdeennikkeloctaoxide	68016-03-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	kobaltnikkel grijze periklaas	68186-89-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	trinikkelbis(arseniet)	74646-29-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelchromaat	14721-18-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	kiezelzuur, loodnikkelzout	68130-19-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	(2-ethylhexanoato-O)(isodecanoato-O)nikkel	84852-39-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	(2-ethylhexanoato-O)(isononanoato-O)nikkel	85508-45-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	(2-ethylhexanoato-O)(neodecanoato-O)nikkel	85135-77-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	(isodecanoato-O)(isononanoato-O)nikkel	84852-36-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	(isodecanoato-O)(isooctanoato-O)nikkel	85166-19-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	(isononanoato-O)(isooctanoato-O)nikkel	85508-46-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	(isononanoato-O)(neodecanoato-O)nikkel	85551-28-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	(isooctanoato-O)(neodecanoato-O)nikkel	84852-35-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	[µ-[carbonato(2-)-O:O’]] dihydroxytrinikkel	65405-96-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	[carbonato(2-)] tetrahydroxytrinikkel	12607-70-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	2,7-naftaleendisulfonzuur, nikkel(II)zout	72319-19-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	2-ethylhexaanzuur, nikkelzout	7580-31-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	bis(D-gluconato-O.su.1.su.,O.su.2.su.)nikkel	71957-07-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	bunseniet	34492-97-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	koolzuur nikkelzout	16337-84-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	citroenzuur ammoniumnikkelzout	18283-82-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	citroenzuur nikkelzout	22605-92-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	dialuminiumnikkeltetraoxide	12004-35-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	diammoniumnikkelbis(sulfaat)	15699-18-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	diammoniumnikkelhexacyanoferraat	74195-78-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	dimethylhexaanzuur nikkelzout	93983-68-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	dinikkelboride	12007-01-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	dinikkeldifosfaat	14448-18-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	dinikkelhexacyanoferraat	14874-78-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	dinikkelorthosilicaat	13775-54-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	dinikkelfosfide	12035-64-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	dinikkelsilicide	12059-14-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	difosforzuur nikkel(II)zout	19372-20-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	ethylwaterstofsulfaat, nikkel(II)zout	71720-48-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	vetzuren, C6-19-vertakte, nikkelzouten	91697-41-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	vetzuren, C8-18- en C18-onverzadigd, nikkelzouten	84776-45-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	mierenzuur, kopernikkelzout	68134-59-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	mierenzuur nikkelzout	15843-02-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	heazlewoodiet	12035-71-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	lithiumnikkeldioxide	12031-65-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	milleriet	1314-04-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	molybdeennikkelhydroxideoxidefosfaat	68130-36-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	molybdeennikkeloxide	12673-58-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	molybdeennikkeltetraoxide	14177-55-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	neodecaanzuur, nikkelzout	51818-56-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel-3,5-bis(tert-butyl)-4-hydroxybenzoaat	52625-25-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelacetaat	14998-37-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelbariumtitanium lichtgeel prideriet	68610-24-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelbis(2-ethylhexanoaat)	4454-16-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelbis(4-cyclohexylbutyraat)	3906-55-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelbis(benzeensulfonaat)	39819-65-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelbis(diwaterstoffosfaat)	18718-11-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelbis(isononanoaat)	84852-37-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelbis(fosfinaat)	14507-36-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelbis(sulfamidaat)	13770-89-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelboride	12007-00-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelcarbonaat	3333-67-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldiacetaat	373-02-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldibenzoaat	553-71-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldibromaat	14550-87-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldibromide	13462-88-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldichloraat	67952-43-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldichloride	7718-54-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldichromaat	15586-38-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldifluoride	10028-18-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldiformiaat	3349-06-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldihydroxide	12054-48-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldijodide	13462-90-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldilactaat	16039-61-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldioxide	12035-36-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldiperchloraat	13637-71-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	dikaliumnikkelbis(sulfaat)	13842-46-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldisilicide	12201-89-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldithiocyanaat	13689-92-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldivanadiumhexaoxide	52502-12-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelhexafluorsilicaat	26043-11-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelwaterstoffosfaat	14332-34-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelhydroxide	11113-74-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelisooctanoaat	27637-46-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel mat	69012-50-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeloxalaat	547-67-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelfosfinaat	36026-88-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelkaliumfluoride	11132-10-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelselenaat	15060-62-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelselenide	1314-05-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelsilicaat	31748-25-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelsulfaat	7786-81-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeltelluride	12142-88-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeltelluurtetraoxide	15852-21-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeltelluurtrioxide	15851-52-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelstannaat	12035-38-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeltitaniumoxide	12653-76-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeltitaniumtrioxide	12035-39-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeltriuraandecaoxide	15780-33-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelwolfraamtetraoxide	14177-51-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelzirkoniumtrioxide	70692-93-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)waterstofcitraat	18721-51-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)isodecanoaat	85508-43-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)isooctanoaat	29317-63-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)neodecanoaat	85508-44-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)neononanoaat	93920-10-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)neoündecanoaat	93920-09-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)octanoaat	4995-91-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)palmitaat	13654-40-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)propionaat	3349-08-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)seleniet	10101-96-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)silicaat	21784-78-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)octadecanoaat	2223-95-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)sulfiet	7757-95-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)trifluoracetaat	16083-14-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	salpeterzuur nikkelzout	14216-75-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	olivijn nikkelgroen	68515-84-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	oxaalzuur nikkelzout	20543-06-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	fosforzuur calciumnikkelzout	17169-61-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	kiezelzuur nikkelzout	37321-15-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	afvalslik en bezinksel, elektrolytische koperzuivering, ontkoperd nikkelsulfaat,	92129-57-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	triwaterstofhydroxybis[orthosilicato(4-)]trinikkelaat(3-)	12519-85-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	trinikkelbis(orthofosfaat)	10381-36-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelsubsulfide	12035-72-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	trinikkeltetrasulfide	12137-12-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldicyanide	557-19-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkeldinitraat	13138-45-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkelnitriet	17861-62-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)acetaat tetrahydraat	6018-89-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)nitraathexahydraat	13478-00-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II)sulfaat hexahydraat	10101-97-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	kobalt-lithium-mangaan-nikkeloxide	182442-95-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	nikkel(II) trifluormethaansulfonaat	60871-84-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	mengsel van lood, nikkel, thallium, cadmium en koper		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	residuen van koper-ijzer-lood-nikkel mat, onoplosbaar in  in zwavelzuur	102110-49-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	lood-nikkel legering	98246-91-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS nikkel en nikkelverbindingen	lithium nikkel kobaltoxide	113066-89-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)			3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie verwacht
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	2-methylnaftaleen	91-57-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	7H-dibenzo[c,g]carbazool	194-59-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	acenafteen	83-32-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	acenaftyleen	208-96-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	acridine	260-94-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	antraceen	120-12-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	benz[a]acridine	225-11-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	benz[c]acridine	225-51-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	benzo[a]antraceen	56-55-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	benzo[a]pyreen	50-32-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	benzo[b]fluoranteen	205-99-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	benzo[e]pyreen	192-97-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	benzo[g,h,i]peryleen	191-24-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	benzo[j]fluoranteen	205-82-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	benzo[k]fluoranteen	207-08-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	chryseen	218-01-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	dibenzo[a,h]acridine	226-36-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	dibenzo[a,j]acridine	224-42-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	dibenzo[a,e]pyreen	192-65-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	dibenzo[a,h]antraceen	53-70-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	dibenzo[a,h]pyreen	189-64-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	dibenzo[a,l]pyreen	191-30-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	fenantreen	85-01-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	fluoranteen	206-44-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	fluoreen	86-73-7	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	indeen	95-13-6	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	indeno[1,2,3-cd]pyreen	193-39-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	isoquinoline	119-65-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	naftaleen	91-20-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	fenantridine	229-87-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	pyreen	129-00-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	chinoline	91-22-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	9(10H)acridoon	578-95-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	3-amino-9-ethylcarbazool	132-32-1	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	2-naftylamine acetaat	553-00-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	2-naftylamine hydrochloride	612-52-2	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	2-nitronaftaleen	581-89-5	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	5-nitroacenafteen	602-87-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	polycyclische aromatische koolwaterstoffen		3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	2-naftylamine	91-59-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	8-hydroxychinoline	148-24-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	6-nitrochryseen	7496-02-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	5-methylchryseen	3697-24-3	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	1,6-dinitropyreen	42397-64-8	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	1,8-dinitropyreen	42397-65-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	4-nitropyreen	57835-92-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	peryleen-3,4:9,10-tetracarboxydiimide	81-33-4	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	dibenzo[a,i]pyreen	189-55-9	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk
+ZZS polycyclische aromatische koolwaterstoffen (PAKs)	1-methylnaftaleen	90-12-0	3.3 Complexe bedrijven	3.3.6 Basismetaal	3.3.6 a het roosten of sinteren van ertsen	Water	Emissie mogelijk

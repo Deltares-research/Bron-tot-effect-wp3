@@ -1,0 +1,81 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	
+ZZS arseen en arseenverbindingen			3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie verwacht
+ZZS arseen en arseenverbindingen	arseen	7440-38-2	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	diarseenpentaoxide	1303-28-2	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseentrioxide	1327-53-3	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenzuur	7778-39-4	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zouten van arseenzuur		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	in water oplosbare zouten van arseenzuur		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	in water onoplosbare zouten van arseenzuur		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calciumarsenaat	7778-44-1	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenaat	7784-40-9	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkeldiarsenide	12068-61-0	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	galliumarsenide	1303-00-0	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkel(II)arsenaat	13477-70-8	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	triethylarsenaat	15606-95-8	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkelarsenide	27016-75-7	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trilooddiarsenaat	3687-31-8	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trinikkelbis(arseniet)	74646-29-0	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenverbindingen		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	anorganische arseenverbindingen		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	organische arseenverbindingen		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ammoniumarsenaat	7784-44-3	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenbromide	7784-33-0	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseentrichloride	7784-34-1	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenylaminochloorarsine	578-94-9	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenylchloorarsine	712-48-1	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ethyldichloorarsine	598-14-1	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(III)arsenaat	10102-49-5	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(III)arseniet	63989-69-5	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kakodylzuur	75-60-5	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumdihydroarsenaat	7784-41-0	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumarsenaat	10124-50-2	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	koperacetoarseniet	12002-03-8	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	koperarseniet	10290-12-7	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kwik(II)arsenaat	7784-37-4	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenaten		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenieten		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	magnesiumarsenaat	10103-50-1	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarsenaat	7631-89-2	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarseniet	15120-17-9	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumkakodylaat	124-65-2	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	strontiumarseniet	15195-06-9	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zilverarseniet	7784-08-9	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zinkarsenaat of zinkarseniet of zinkarsenaat en zinkarseniet, mengsel		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arsine	7784-42-1	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(II)arsenaat	10102-50-8	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	pesticide, arseenverbinding		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	indium arsenide	1303-11-3	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	2-aminofenylarsenigzuur	2045-00-3	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	2-nitrofenylarsenigzuur	5410-29-7	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	4-hydroxyfenylarsenigzuur	98-14-6	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenoxides, bismut-ijzer-antimoonoxides, natriumaluminiumfluoride, zinksulfaat, terugwinningsproducten uit koper- en zink-stof 		3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseen(V)oxide hydraat	12044-50-7	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arsenigzuur, [4-[[4-(dimethylamino)fenyl]azo]fenyl]-, monohydrochloride	73688-85-4	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calcium arsenaat (CaHAsO4) (6CI,7CI)	15195-00-3	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenoxarsine-10-yl oxide	58-36-6	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenyljodonium hexafluoroarsenaat	62613-15-4	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatrium 3-[(o-fenylarsenigzuur)azo]-4,5-dihydroxynaftaleen-2,7-disulfonaat	3547-38-4	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatrium 4-[(o-fenylarsenigzuur)azo]-3-hydroxynaftaleen-2,7-disulfonaat	3688-92-4	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatriumwaterstofarsenaat	7778-43-0	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	methyltrifenylarsoniumiodide	1499-33-8	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	fenylarsine oxide	637-03-6	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	fenylarsenigzuur	98-05-5	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumhexafluorarsenaat	17029-22-0	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	roxarsone	121-19-7	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	rubidium diwaterstofarsenaat	13464-57-8	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarsenaat dibasisch heptahydraat	10048-95-0	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tetramethylarsonium iodide	5814-20-0	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tetrafenylarsonium chloride hydrochloride hydraat	123334-18-9	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tricadmium diarsenide	12006-15-4	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trifenylarsine	603-32-7	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trizilverarsenaat	13510-44-6	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trinatrium arsenaat	13464-38-5	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trizink diarsenide	12006-40-5	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zink arsenaat	13464-44-3	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarseniet	10031-13-7	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calciumarseniet	52740-16-6	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumarseniet	13464-35-2	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tricalcium diarseniet	27152-57-4	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	1-hepteen-1-arsenigzuur, 2-chloor-, monoammonium zout	300-88-9	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	lithium hexafluorarsenaat	29935-35-1	3.11 Defensie	3.11.6 Militaire oefeningen op militaire objecten en terreinen		Water	Emissie mogelijk

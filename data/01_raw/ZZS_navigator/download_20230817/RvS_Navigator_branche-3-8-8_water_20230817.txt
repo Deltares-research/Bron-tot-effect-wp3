@@ -1,0 +1,128 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	
+ZZS arseen en arseenverbindingen			3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie verwacht
+ZZS arseen en arseenverbindingen	arseen	7440-38-2	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	diarseenpentaoxide	1303-28-2	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseentrioxide	1327-53-3	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenzuur	7778-39-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zouten van arseenzuur		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	in water oplosbare zouten van arseenzuur		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	in water onoplosbare zouten van arseenzuur		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calciumarsenaat	7778-44-1	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenaat	7784-40-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkeldiarsenide	12068-61-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	galliumarsenide	1303-00-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkel(II)arsenaat	13477-70-8	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	triethylarsenaat	15606-95-8	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	nikkelarsenide	27016-75-7	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trilooddiarsenaat	3687-31-8	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trinikkelbis(arseniet)	74646-29-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenverbindingen		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	anorganische arseenverbindingen		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	organische arseenverbindingen		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ammoniumarsenaat	7784-44-3	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenbromide	7784-33-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseentrichloride	7784-34-1	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenylaminochloorarsine	578-94-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenylchloorarsine	712-48-1	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ethyldichloorarsine	598-14-1	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(III)arsenaat	10102-49-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(III)arseniet	63989-69-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kakodylzuur	75-60-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumdihydroarsenaat	7784-41-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumarsenaat	10124-50-2	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	koperacetoarseniet	12002-03-8	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	koperarseniet	10290-12-7	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kwik(II)arsenaat	7784-37-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenaten		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarsenieten		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	magnesiumarsenaat	10103-50-1	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarsenaat	7631-89-2	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarseniet	15120-17-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumkakodylaat	124-65-2	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	strontiumarseniet	15195-06-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zilverarseniet	7784-08-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zinkarsenaat of zinkarseniet of zinkarsenaat en zinkarseniet, mengsel		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arsine	7784-42-1	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	ijzer(II)arsenaat	10102-50-8	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	pesticide, arseenverbinding		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	indium arsenide	1303-11-3	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	2-aminofenylarsenigzuur	2045-00-3	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	2-nitrofenylarsenigzuur	5410-29-7	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	4-hydroxyfenylarsenigzuur	98-14-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseenoxides, bismut-ijzer-antimoonoxides, natriumaluminiumfluoride, zinksulfaat, terugwinningsproducten uit koper- en zink-stof 		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arseen(V)oxide hydraat	12044-50-7	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	arsenigzuur, [4-[[4-(dimethylamino)fenyl]azo]fenyl]-, monohydrochloride	73688-85-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calcium arsenaat (CaHAsO4) (6CI,7CI)	15195-00-3	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenoxarsine-10-yl oxide	58-36-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	difenyljodonium hexafluoroarsenaat	62613-15-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatrium 3-[(o-fenylarsenigzuur)azo]-4,5-dihydroxynaftaleen-2,7-disulfonaat	3547-38-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatrium 4-[(o-fenylarsenigzuur)azo]-3-hydroxynaftaleen-2,7-disulfonaat	3688-92-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	dinatriumwaterstofarsenaat	7778-43-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	methyltrifenylarsoniumiodide	1499-33-8	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	fenylarsine oxide	637-03-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	fenylarsenigzuur	98-05-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumhexafluorarsenaat	17029-22-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	roxarsone	121-19-7	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	rubidium diwaterstofarsenaat	13464-57-8	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	natriumarsenaat dibasisch heptahydraat	10048-95-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tetramethylarsonium iodide	5814-20-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tetrafenylarsonium chloride hydrochloride hydraat	123334-18-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tricadmium diarsenide	12006-15-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trifenylarsine	603-32-7	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trizilverarsenaat	13510-44-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trinatrium arsenaat	13464-38-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	trizink diarsenide	12006-40-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	zink arsenaat	13464-44-3	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	loodarseniet	10031-13-7	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	calciumarseniet	52740-16-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	kaliumarseniet	13464-35-2	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	tricalcium diarseniet	27152-57-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	1-hepteen-1-arsenigzuur, 2-chloor-, monoammonium zout	300-88-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS arseen en arseenverbindingen	lithium hexafluorarsenaat	29935-35-1	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen			3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie verwacht
+ZZS chroom (VI) verbindingen	calciumchromaat	13765-19-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chromyldichloride	14977-61-8	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chroom (VI)	18540-29-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chroom (VI) verbindingen		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chroom(III)chromaat	24613-89-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chroomtrioxide	1333-82-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	chroomzuur	7738-94-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	kaliumdichromaat	7778-50-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	loodchromaat	7758-97-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	strontiumchromaat	7789-06-2	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	tert-butylchromaat	1189-85-1	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	zinkchromaat	13530-65-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	loodsulfochromaat	1344-37-2	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	loodchromaatmolybdaatsulfaat	12656-85-8	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	dichroomzuur	13530-68-2	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	natriumdichromaat	10588-01-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	ammoniumdichromaat	7789-09-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	kaliumchromaat	7789-00-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	natriumchromaat	7775-11-3	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	nikkelchromaat	14721-18-7	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	pentazinkchromaatoctahydroxide	49663-84-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	zinkkaliumchromaat	11103-86-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	nikkeldichromaat	15586-38-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	natrium dichromaat dihydraat	7789-12-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	uit chroomtrioxide gevormde zuren en oligomeren daarvan		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	ammoniumchromaat	7788-98-9	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	4-(dimethylamino)pyridinium chloorchromaat	81121-61-1	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	diloodchromaatoxide	18454-12-1	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	rubidium chromaat	13446-72-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS chroom (VI) verbindingen	oligomeren van chroomzuur en dichroomzuur		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels			3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie verwacht
+ZZS minerale vezels	actinoliet	77536-66-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	amosiet	12172-73-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	anthofylliet	77536-67-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	asbest	1332-21-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	crocidoliet	12001-28-4	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	tremoliet	77536-68-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	zirkonium aluminiumsilicaat vuurvaste keramische vezels		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	aluminiumsilicaat vuurvaste keramische vezels	142844-00-6	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	erioniet	12510-42-8	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	asbest chrysotiel	12001-29-5	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	vuurvaste keramische vezels, vezels voor speciale toepassingen, met uitzondering van minerale wol zoals gedefinieerd in bijlage VI van de EU-CLP/GHS [synthetische (silicaat)glasvezels met een willekeurige oriëntatie en een gehalte aan alkali- en aardalkalioxiden (Na2O plus K2O plus CaO plus MgO plus BaO) van ten hoogste 18 gewichtsprocent]		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	e-glas microvezels met een representatieve samenstelling		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	asbest amfibolen		3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	siliciumcarbide (vezelvormig)	409-21-2	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk
+ZZS minerale vezels	chrysotiel asbest	132207-32-0	3.8 Transport, logistiek en ondersteuning daarvan	3.8.8 Onderhoudswerkplaats voor vliegtuigen		Water	Emissie mogelijk

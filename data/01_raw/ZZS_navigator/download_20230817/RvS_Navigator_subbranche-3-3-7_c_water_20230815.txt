@@ -1,0 +1,17 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	
+ZZS minerale vezels			3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie verwacht
+ZZS minerale vezels	actinoliet	77536-66-4	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	amosiet	12172-73-5	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	anthofylliet	77536-67-5	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	asbest	1332-21-4	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	crocidoliet	12001-28-4	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	tremoliet	77536-68-6	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	zirkonium aluminiumsilicaat vuurvaste keramische vezels		3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	aluminiumsilicaat vuurvaste keramische vezels	142844-00-6	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	erioniet	12510-42-8	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	asbest chrysotiel	12001-29-5	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	vuurvaste keramische vezels, vezels voor speciale toepassingen, met uitzondering van minerale wol zoals gedefinieerd in bijlage VI van de EU-CLP/GHS [synthetische (silicaat)glasvezels met een willekeurige oriëntatie en een gehalte aan alkali- en aardalkalioxiden (Na2O plus K2O plus CaO plus MgO plus BaO) van ten hoogste 18 gewichtsprocent]		3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	e-glas microvezels met een representatieve samenstelling		3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	asbest amfibolen		3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	siliciumcarbide (vezelvormig)	409-21-2	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk
+ZZS minerale vezels	chrysotiel asbest	132207-32-0	3.3 Complexe bedrijven	3.3.7 Complexe minerale industrie	3.3.7 c het winnen van asbest of het maken van asbestproducten	Water	Emissie mogelijk

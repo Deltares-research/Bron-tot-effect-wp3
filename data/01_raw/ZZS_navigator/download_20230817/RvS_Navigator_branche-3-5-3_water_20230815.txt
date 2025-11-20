@@ -1,0 +1,25 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	
+ZZS ftalaten			3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie verwacht
+ZZS ftalaten	1,2-benzeendicarbonzuur, di-C7-11 vertakte en lineaire alkylesters	68515-42-4	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	1,2-benzeendicarbonzuur, dihexyl ester, vertakte en lineaire alkylesters	68515-50-4	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	benzylbutylftalaat	85-68-7	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	bis(2-ethylhexyl)ftalaat	117-81-7	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	dibutylftalaat	84-74-2	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	dihexylftalaat	84-75-3	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	diisobutylftalaat	84-69-5	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	bis(2-methoxyethyl)ftalaat	117-82-8	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	di-n-pentylftalaat	131-18-0	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	methylcyclohexyl-1,6-dicarbonzuur-anhydride	19438-60-9	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	methylhexahydroftaalzuur anhydride 	25550-51-0	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	hexahydro-1-methylftaalzuur-anhydride	48122-14-1	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	hexahydro-3-methylftaalzuur-anhydride	57110-29-9	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	di-isopentylftalaat	605-50-5	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	1,2-benzeendicarbonzuur, di-C6-8-vertakte alkylesters, C7-rijk	71888-89-6	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	N-pentyl-isopentylftalaat	776297-69-9	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	1,2-benzeendicarbonzuur, dipentylester, vertakt en lineair	84777-06-0	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	1,2-benzeendicarbonzuur, di-C6-10-alkyl esters	68515-51-5	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	1,2-benzeendicarbonzuur, mengsel van decyl en hexyl en octyl diesters	68648-93-1	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	dicyclohexylftalaat	84-61-7	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	diisohexylftalaat	71850-09-4	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	diisoöctylftalaat	27554-26-3	3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk
+ZZS ftalaten	1,2-benzeendicarbonzuur, di-C6-10-alkylesters of gemengde decyl- en hexyl- en octyl-diësters  met ≥ 0,3% dihexylftalaat (EC No. 201-559-5)		3.5 Afvalbeheer	3.5.3 Rubberrecyclingbedrijf en kunststofrecyclingbedrijf		Water	Emissie mogelijk

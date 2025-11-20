@@ -1,0 +1,11 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	
+ZZS nitrotoluenen			3.3 Complexe bedrijven	3.3.8 Basischemie	3.3.8 f het maken van explosieven	Water	Emissie verwacht
+ZZS nitrotoluenen	2,3-dinitrotolueen	602-01-7	3.3 Complexe bedrijven	3.3.8 Basischemie	3.3.8 f het maken van explosieven	Water	Emissie mogelijk
+ZZS nitrotoluenen	2,4-dinitrotolueen	121-14-2	3.3 Complexe bedrijven	3.3.8 Basischemie	3.3.8 f het maken van explosieven	Water	Emissie mogelijk
+ZZS nitrotoluenen	2,5-dinitrotolueen	619-15-8	3.3 Complexe bedrijven	3.3.8 Basischemie	3.3.8 f het maken van explosieven	Water	Emissie mogelijk
+ZZS nitrotoluenen	2,6-dinitrotolueen	606-20-2	3.3 Complexe bedrijven	3.3.8 Basischemie	3.3.8 f het maken van explosieven	Water	Emissie mogelijk
+ZZS nitrotoluenen	3,5-dinitrotolueen	618-85-9	3.3 Complexe bedrijven	3.3.8 Basischemie	3.3.8 f het maken van explosieven	Water	Emissie mogelijk
+ZZS nitrotoluenen	dinitrotolueen	25321-14-6	3.3 Complexe bedrijven	3.3.8 Basischemie	3.3.8 f het maken van explosieven	Water	Emissie mogelijk
+ZZS nitrotoluenen	3,4-dinitrotolueen	610-39-9	3.3 Complexe bedrijven	3.3.8 Basischemie	3.3.8 f het maken van explosieven	Water	Emissie mogelijk
+ZZS nitrotoluenen	2-nitrotolueen	88-72-2	3.3 Complexe bedrijven	3.3.8 Basischemie	3.3.8 f het maken van explosieven	Water	Emissie mogelijk
+ZZS nitrotoluenen	musk xyleen	81-15-2	3.3 Complexe bedrijven	3.3.8 Basischemie	3.3.8 f het maken van explosieven	Water	Emissie mogelijk

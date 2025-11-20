@@ -1,0 +1,2 @@
+﻿Stofgroep	Stofnaam	CAS-nummer	Afdeling	Branche	Subbranche	Compartiment	Emissiestatus	
+Individuele stoffen	benzeen	71-43-2	3.4 Nutssector en industrie	3.4.5 Minerale producten industrie	3.4.5 d het maken van asfalt of asfaltproducten	Water	Emissie verwacht
