@@ -1,6 +1,8 @@
 # SPOT_B2E - Suspectlist generatie
 
-Dit project bevat R-scripts om op basis van ZZS- en Emissieregistratie-data een "suspectlist" te genereren. Volg de acht scripts in de `scripts/` map in de aangegeven volgorde om van ruwe data tot een samengestelde suspectlist te komen.
+Dit project bevat R-scripts om op basis van ZZS- en Emissieregistratie-data een "suspectlist" te genereren. Samen vormen de scripts de Stoffen Prioritering en Opsporing Tool (SPOT). Volg de acht scripts in de `scripts/` map in de aangegeven volgorde om van ruwe data tot een samengestelde suspectlist te komen.
+Meer informatie over de gebruikte methodiek is te vinden in het onderstaande rapport
+https://publications.deltares.nl/11208834_003_0001.pdf 
 
 **Belangrijk:** de beschrijving hieronder is in het Nederlands.
 
